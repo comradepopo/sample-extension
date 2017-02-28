@@ -1,0 +1,2 @@
+# sample-extension
+Sample extension
