@@ -35,7 +35,7 @@ To use this package:
 
 1. Create an application by running the following command:
 	```
-	sencha -sdk /path/to/sdk/folder generate app AppName /path/to/app/folder`
+	sencha -sdk /path/to/sdk/folder generate app AppName /path/to/app/folder
 	```
 
 2. Copy `ext-easy-button` folder to your application `packages/local` folder. You may have to create the `local` folder if it not already existing.
