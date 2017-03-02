@@ -15,9 +15,10 @@ You may test drive the online demo.
 You may also run the example available under examples folder by following these quick steps:
 
 1. Create a workspace by running the following command:
-
-`sencha -sdk /path/to/sdk/folder generate workspace /path/to/workspace/folder`
-
+	```
+	sencha -sdk /path/to/sdk/folder generate workspace /path/to/workspace/folder
+	```
+	
 2. `cd /path/to/workspace/folder`
 
 3. Create `local` folder inside `packages` folder
@@ -33,19 +34,20 @@ You may also run the example available under examples folder by following these 
 To use this package:
 
 1. Create an application by running the following command:
-
-`sencha -sdk /path/to/sdk/folder generate app AppName /path/to/app/folder`
+	```
+	sencha -sdk /path/to/sdk/folder generate app AppName /path/to/app/folder`
+	```
 
 2. Copy `ext-easy-button` folder to your application `packages/local` folder. You may have to create the `local` folder if it not already existing.
 
 3. Modify `app.json` file to include `ext-easy-package` package to the `requires`, as shown below:
 
-``
-"requires": [
-        	"font-awesome",
-	    	"ext-easy-button"
-   	 ],
-``
+	```javascript
+	"requires": [
+			"font-awesome",
+			"ext-easy-button"
+		 ],
+	```
 
 4. Run `sencha app refresh`. The package is ready for usage in your application. You may start referring to the button using the xtype - `easybutton` - or class `EasyButton.button.Easy`.
 
