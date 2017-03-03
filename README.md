@@ -27,7 +27,7 @@ You may also run the example available under examples folder by following these 
 
 5. `cd packages/local/ext-easy-button/examples/easy-button-classic`
 
-6. Run `sencha app watch` and open http://localhost:1841/packages/local/ext-easy-button/examples/easy-button-classic/ in your browser
+6. Run `sencha app watch` and open [http://localhost:1841/packages/local/ext-easy-button/examples/easy-button-classic/](http://localhost:1841/packages/local/ext-easy-button/examples/easy-button-classic/) in your browser
 
 ## How to Use This Extension
 
