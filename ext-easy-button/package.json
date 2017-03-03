@@ -40,12 +40,12 @@
     /**
      * A summarized description of this package.
      */
-    "summary": "Short summary",
+    "summary": "Easy Button",
 
     /**
      * A detailed description of this package.
      */
-    "detailedDescription": "Long description of package",
+    "detailedDescription": "A simple button that shows “That was easy!” message in a pop-up dialog when user clicks on it.",
 
     /**
      * The package version.
