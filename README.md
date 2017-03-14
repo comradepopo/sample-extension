@@ -1,5 +1,7 @@
 **NOTE: This is a Sencha Extension example listing provided for you to use as a guide for your own Sencha Extensions. You can use this listing as an example, or you can clone it to create your listing. You can link to your listing in your SenchaDevs profile.**
 
+**You may refer to [How To Create and Distribute Your Sencha Ext JS Extension](https://github.com/sencha/sample-extension/wiki/How-To-Create-and-Distribute-Your-Sencha-Ext-JS-Extension) guide to learn how you can distribute an extension which is easier for your users to make use of.**
+
 # Easy Button
 
 ![Sencha Easy Button](https://github.com/sencha/sample-extension/blob/master/images/easy_button.png "Easy Button")
