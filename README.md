@@ -55,4 +55,4 @@ To use this package:
 Please create an [issue on GitHub](https://github.com/sencha/sample-extension/issues) or send an email to ajit.kumar@sencha.com.
 
 ## License
-Licenses are located under [ext-easy-button/licenses](https://github.com/sencha/sample-extension/tree/master/ext-easy-button/licenses) folder.
+Licenses are located under [packages/local/ext-easy-button/licenses](https://github.com/sencha/sample-extension/tree/master/packages/local/ext-easy-button/licenses) folder.
