@@ -9,25 +9,23 @@ A simple button that shows “That was easy!” message in a pop-up dialog when 
 ![Easy Button Click](https://github.com/sencha/sample-extension/blob/master/images/button_click_msg.png "Easy Button Click")
 
 ## Demo
-You may test drive the online demo.
+You may test drive the [online demo](https://sencha.github.io/sample-extension/).
 
 ## Running Examples
 You may also run the example available under examples folder by following these quick steps:
 
-1. Create a workspace by running the following command:
-	```
-	sencha -sdk /path/to/sdk/folder generate workspace /path/to/workspace/folder
-	```
-	
-2. `cd /path/to/workspace/folder`
+1. Clone the repository	
 
-3. Create `local` folder inside `packages` folder
+2. `cd /path/to/folder`
 
-4. Copy `ext-easy-button` folder inside `packages/local` folder
+3. Run the following command to install Ext JS SDK:
+```
+sencha workspace install --frameworks ~/Downloads/ext-6.2.1
+```
 
-5. `cd packages/local/ext-easy-button/examples/easy-button-classic`
+4. `cd examples/easy-button-classic`
 
-6. Run `sencha app watch` and open [http://localhost:1841/packages/local/ext-easy-button/examples/easy-button-classic/](http://localhost:1841/packages/local/ext-easy-button/examples/easy-button-classic/) in your browser
+5. Run `sencha app watch` and open [http://localhost:1841/examples/easy-button-classic/](http://localhost:1841/examples/easy-button-classic/) in your browser
 
 ## How to Use This Extension
 
